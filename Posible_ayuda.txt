@@ -1,8 +1,0 @@
-[theme]
-base="light"
-primaryColor="#47669b"
-secondaryBackgroundColor="#ffffff"
-textColor="#2a3864"
-
-Inicializar el Programa con las configuraciones originales
-streamlit run Dashboard.py --theme.base "light" --theme.primaryColor "#47669b" --theme.secondaryBackgroundColor "#ffffff" --theme.textColor "#2a3864"
